@@ -171,6 +171,8 @@ h1 {
     padding: 20px 0;
   }
   .container {
+    width: 332px;
+
     .box-wrapper {
       grid-template-columns: repeat(2, 160px);
       justify-content: center;

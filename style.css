@@ -171,10 +171,8 @@ h1 {
     padding: 20px 0;
   }
   .container {
-    padding-inline: 15px;
-
     .box-wrapper {
-      grid-template-columns: repeat(2, 186px);
+      grid-template-columns: repeat(2, 160px);
       justify-content: center;
     }
 
